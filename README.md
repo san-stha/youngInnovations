@@ -4,11 +4,11 @@ An assignment flutter project
 Flutter version 3.0.5
 
 # video
-https://drive.google.com/drive/folders/1g7yipH9nv9KTl782PKRrJKzrj96L7cZF
+https://drive.google.com/file/d/1gHO9NYpdEZrGEF8JZlvif_X3SZrDK7uk/view?usp=sharing
 
 # screen shots 
 link: 
-https://drive.google.com/drive/folders/15WwgLpnTvopSSKjmcVlpZwmNYL4tTekE
+https://drive.google.com/drive/folders/15WwgLpnTvopSSKjmcVlpZwmNYL4tTekE?usp=sharing
 
 
 figure 1 : home page
